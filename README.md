@@ -1,10 +1,13 @@
 # pong
 Juego de Pong programado en vivo en Twitch
 
-#Requiere Python3 y Pygame para Python3
-#En Linux: instalar pip para manejar paquetes:
+# Requiere Python3 y Pygame para Python3
+# En Linux: instalar pip para manejar paquetes:
 sudo apt install python3-pip
-#En Linux: instalar pygame con pip:
+# En Linux: instalar pygame con pip:
 pip3 install pygame
-#En Mac:
+# En Mac:
 pip3 install pygame==2.0.0.dev3
+
+# Para jugar:
+python3 pong.py
